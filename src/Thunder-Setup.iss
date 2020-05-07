@@ -2,7 +2,7 @@
 ; SEE THE DOCUMENTATION FOR DETAILS ON CREATING INNO SETUP SCRIPT FILES!
 
 #define MyAppName "Thunder"
-#define MyAppVersion "7.10.35.366"
+#define MyAppVersion "1.0.35.366"
 #define MyAppPublisher "深圳市迅雷网络技术有限公司"
 #define MyAppURL "https://www.xunlei.com/"
 #define MyAppExeName "Thunder.exe"
